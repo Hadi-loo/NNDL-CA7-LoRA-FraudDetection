@@ -1,4 +1,4 @@
-# NNDL CA7 - LoRA and Fraud Detection in Credit Card Transactions
+# Neural Network and Deep Learning Course - LoRA and Fraud Detection in Credit Card Transactions
 
 ## Project Description
 
